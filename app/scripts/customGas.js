@@ -262,5 +262,12 @@ to:         '0x4c382F8E09615AC86E08CE58266CC227e7d4D913',
 gasLimit:   200000,
 data:       '',
 msg:        'Get SKR! Thanks for your support and remember only get the contract address from tokensale.skrilla.com'
+},
+{
+// STAR Token Sale
+to:         '0x4F4e76761eb0a5A2992A6f3Ab1C90A874450EcCa',
+gasLimit:   300000,
+data:       '',
+msg:        'STAR crowdsale https://starbase.co/crowdsale'
 }
 ]
